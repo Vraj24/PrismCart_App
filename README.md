@@ -29,7 +29,7 @@ PrismCart Mobile is a cross-platform e-commerce application developed using **Fl
 
 <img src="https://github.com/user-attachments/assets/c273c55e-e1b1-4242-9d06-28650ca10f41" width="300"/>
 
-### Orders Page
+### 📦 Orders Page
 <img src="https://github.com/user-attachments/assets/37d3910d-9b3a-4982-a30f-856b10306d28" width="300"/>
 
 ---
