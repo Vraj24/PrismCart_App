@@ -16,21 +16,21 @@ PrismCart Mobile is a cross-platform e-commerce application developed using **Fl
 ## 🖼️ Demo Screenshots
 
 ### 🛍️ Home Page
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-06 at 19 14 33](https://github.com/user-attachments/assets/aa144d02-fef7-49dc-96ed-d817346d2fdb)
+<img src="https://github.com/user-attachments/assets/aa144d02-fef7-49dc-96ed-d817346d2fdb" width="300"/>
 
 ### 🛍️ Product Page
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-06 at 19 15 22](https://github.com/user-attachments/assets/db451af0-c31d-48f5-a73f-38116c4c23fb)
+<img src="https://github.com/user-attachments/assets/db451af0-c31d-48f5-a73f-38116c4c23fb" width="300"/>
 
 ### 🛒 Cart Page
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-06 at 19 15 45](https://github.com/user-attachments/assets/bef99723-5bea-4ecb-8f45-60d484fb286f)
+<img src="https://github.com/user-attachments/assets/bef99723-5bea-4ecb-8f45-60d484fb286f" width="300"/>
 
 ### 💳 Payment Gateway
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-06 at 19 16 03](https://github.com/user-attachments/assets/40ce2261-325a-4644-86bc-775bb3b66cc4)
+<img src="https://github.com/user-attachments/assets/40ce2261-325a-4644-86bc-775bb3b66cc4" width="300"/> 
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-06 at 19 16 14](https://github.com/user-attachments/assets/c273c55e-e1b1-4242-9d06-28650ca10f41)
+<img src="https://github.com/user-attachments/assets/c273c55e-e1b1-4242-9d06-28650ca10f41" width="300"/>
 
 ### Orders Page
-![Simulator Screenshot - iPhone 16 Pro - 2025-04-06 at 19 16 44](https://github.com/user-attachments/assets/37d3910d-9b3a-4982-a30f-856b10306d28)
+<img src="https://github.com/user-attachments/assets/37d3910d-9b3a-4982-a30f-856b10306d28" width="300"/>
 
 ---
 
